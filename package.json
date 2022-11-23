@@ -1,0 +1,23 @@
+{
+  "name": "application_of_emotion",
+  "version": "1.0.0",
+  "description": "Application for recording emotions and feelings felt in your daily life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorgabrieldev/application_of_emotion.git"
+  },
+  "author": "Vitor Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorgabrieldev/application_of_emotion/issues"
+  },
+  "homepage": "https://github.com/vitorgabrieldev/application_of_emotion#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.1"
+  }
+}

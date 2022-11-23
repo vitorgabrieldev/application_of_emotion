@@ -1,0 +1,16 @@
+# --- * --- Detailed Project Information --- * ---
+Project_name: Aplication of emotion
+
+Start_date: 23/11/2022 - 20:01
+
+Author(s): Vitor Gabriel De Oliveira
+
+Description: Application for recording emotions and feelings felt in your daily life.
+
+Repository: GIT -> https://github.com/vitorgabrieldev/application_of_emotion
+
+License: MIT
+
+# --- * --- Imports --- * ---
+Dependencies:
+    - Jquery: ^3.6.1
